@@ -19,6 +19,9 @@ bookings, check-in, check-out, and cancellation efficiently using C.
 ## Technologies Used
 - C Programming
 - File Handling
+## A SAMPLE WEBSITE
+https://gramstay.lovable.app/rooms
+IT'S A DEMO WEB PAGE
 
 
 
