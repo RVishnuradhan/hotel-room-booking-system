@@ -20,8 +20,6 @@ bookings, check-in, check-out, and cancellation efficiently using C.
 - C Programming
 - File Handling
 
-## Project Type
-Individual Project
 
-## my role:
+
 
